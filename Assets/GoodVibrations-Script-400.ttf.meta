@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 02d1208c8f5a64f4687b353b9e0523db
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - GoodVibrations
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: de0fc7180230b3b4996320c4f9118bca, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
